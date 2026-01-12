@@ -32,18 +32,9 @@ This project’s mechanical and control logic inspiration is informed by DIY ven
 
 [Main inspiration for this project](https://vm.tiktok.com/ZNRhy9WXq/)
 
-## ✏️ Project Changes vs Source
-
-Although the inspiration tutorials detail Arduino-based vending machines, this project:
-
-- Uses an **ESP32** (instead of Arduino) to integrate Wi-Fi and web infrastructure.
-- Substitutes button matrix input for simple push buttons commonly used in the tutorials.
-- Extends the design to support a **web-app back office** for real-time stock reporting and remote card validation.
-- Emphasizes 3D printed custom mechanically modular design rather than premade wood or cardboard.
+I am aiming to replicate the core vending functionalities demonstrated in the inspiration project while bringing my own modifications, especially the addition of a Wi-Fi–enabled web application for real-time stock monitoring, remote configuration, and online RFID card validation.
 
 -----------------------------------------------------------------------------------------------------
-
-## ❓ Course Questions
 
 ### **What is the system boundary?**
 
