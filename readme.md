@@ -92,7 +92,7 @@ Though inspired by tutorials, this project expands functionality significantly b
 
 This moves it beyond a simple how-to rebuild.
 
-## ❓ Do You Need an ESP32?
+## ❓ Do I Need an ESP32?
 
 YES. The ESP32 is required for:
 
